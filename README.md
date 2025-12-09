@@ -1,14 +1,12 @@
-Web Programming - Oblig 1
-=======
-OsloMet username: hakau9101
+# Submission 1 for DATA1700 Web Programming
 
-GitHub username: harsiratvirk
+**OsloMet username:** hakau9101
 
-Github repo URL: https://github.com/harsiratvirk/WebProgramming_Oblig1.git
+**GitHub username:** harsiratvirk
 
-Full Name: Harsirat Kaur
+**Github repo URL:** https://github.com/harsiratvirk/WebProgramming_Oblig1.git
 
-Brief description of application:<br>
+**Brief description of application:**
 
 A Form for ordering cinema tickets. The user selects a film, the number of 
 tickets and leaves personal details to get one or more cinema tickets returned with the 
